@@ -5,3 +5,5 @@ transformers
 sentence-transformers
 numpy
 requests
+pandas
+gradio
